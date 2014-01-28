@@ -3,7 +3,10 @@
 body {
   padding-top: 85px;
   background-color: #f9f9f9;
-  min-width: 1024px;
+  min-width: 1200px;
+}
+.navbar-header .container {
+  min-width: 1024px!important;
 }
 .navbar a.navbar-brand {
   font-family: 'Montserrat', sans-serif;
@@ -73,6 +76,9 @@ body {
   padding-top: 56px;
   padding-bottom: 64px;
   background-color: white;
+}
+.hero .container {
+  min-width: 1024px!important;
 }
 .hero .how-it-work {
   display: block;
