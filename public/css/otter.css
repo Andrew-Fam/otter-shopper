@@ -16,6 +16,7 @@ body {
 .navbar a.navbar-brand img {
   vertical-align: middle;
   margin-right: 17px;
+  padding-bottom: 7px;
 }
 .navbar-header.navbar.navbar-inverse {
   background-color: #ffaa46;
