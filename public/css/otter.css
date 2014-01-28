@@ -33,11 +33,10 @@ body {
 }
 .subscribe {
   float: left;
-  background-color: #DDDDDD;
+  background-color: #FFFAFA;
   padding: 22px;
   border-radius: 10px;
   width: 100%;
-  box-shadow: 0 0 1px #8A8A88 inset;
 }
 .subscribe input[type="text"],
 .subscribe input[type="email"] {
